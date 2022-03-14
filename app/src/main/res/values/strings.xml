@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Meus Funcionários</string>
+    <string name="btnCadastrar">Cadastrar</string>
+    <string name="btnModificar">Modificar</string>
+</resources>
